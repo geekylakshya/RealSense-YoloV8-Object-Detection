@@ -76,7 +76,7 @@ cvzone
 Run the main script to start the system:
 
 ```bash
-python main.py
+python run_me.py
 ```
 
 ### How It Works
