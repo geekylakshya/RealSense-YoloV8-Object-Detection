@@ -53,6 +53,7 @@ torch
 torchvision
 ultralytics
 matplotlib
+cvzone
 ```
 
 ---
