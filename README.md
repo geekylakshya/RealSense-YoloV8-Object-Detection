@@ -32,8 +32,8 @@ This project integrates the YOLO object detection model with an Intel RealSense 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/object-detection-depth.git
-cd object-detection-depth
+git clone https://github.com/geekylakshya/RealSense-YoloV8-Object-Detection
+cd RealSense-YoloV8-Object-Detection
 ```
 
 ### 2. Install Dependencies
@@ -113,4 +113,4 @@ python main.py
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License.
